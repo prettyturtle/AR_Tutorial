@@ -15,6 +15,9 @@
 		6B7ABA022A3B65F1006D5FAD /* Prac5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7ABA012A3B65F1006D5FAD /* Prac5.swift */; };
 		6B7ABA042A3B683C006D5FAD /* Prac6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7ABA032A3B683C006D5FAD /* Prac6.swift */; };
 		6B7ABA062A3B68AF006D5FAD /* robot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6B7ABA052A3B68AF006D5FAD /* robot.usdz */; };
+		6BF64BDB2A408FCE000F0EC7 /* teapot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 6BF64BDA2A408FCE000F0EC7 /* teapot.usdz */; };
+		6BF64BDD2A409223000F0EC7 /* astronaut.reality in Resources */ = {isa = PBXBuildFile; fileRef = 6BF64BDC2A409223000F0EC7 /* astronaut.reality */; };
+		6BF64BDF2A4093FD000F0EC7 /* Prac7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF64BDE2A4093FD000F0EC7 /* Prac7.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		6B7ABA012A3B65F1006D5FAD /* Prac5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prac5.swift; sourceTree = "<group>"; };
 		6B7ABA032A3B683C006D5FAD /* Prac6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prac6.swift; sourceTree = "<group>"; };
 		6B7ABA052A3B68AF006D5FAD /* robot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = robot.usdz; sourceTree = "<group>"; };
+		6BF64BDA2A408FCE000F0EC7 /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = teapot.usdz; sourceTree = "<group>"; };
+		6BF64BDC2A409223000F0EC7 /* astronaut.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = astronaut.reality; sourceTree = "<group>"; };
+		6BF64BDE2A4093FD000F0EC7 /* Prac7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prac7.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +70,10 @@
 				6B7AB9FF2A3B5C13006D5FAD /* Prac4.swift */,
 				6B7ABA012A3B65F1006D5FAD /* Prac5.swift */,
 				6B7ABA032A3B683C006D5FAD /* Prac6.swift */,
+				6BF64BDE2A4093FD000F0EC7 /* Prac7.swift */,
+				6BF64BDC2A409223000F0EC7 /* astronaut.reality */,
 				6B7ABA052A3B68AF006D5FAD /* robot.usdz */,
+				6BF64BDA2A408FCE000F0EC7 /* teapot.usdz */,
 				6B7AB9F32A3B4B0E006D5FAD /* Assets.xcassets */,
 				6B7AB9F52A3B4B0E006D5FAD /* Preview Content */,
 			);
@@ -137,6 +146,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF64BDD2A409223000F0EC7 /* astronaut.reality in Resources */,
+				6BF64BDB2A408FCE000F0EC7 /* teapot.usdz in Resources */,
 				6B7AB9F72A3B4B0E006D5FAD /* Preview Assets.xcassets in Resources */,
 				6B7AB9F42A3B4B0E006D5FAD /* Assets.xcassets in Resources */,
 				6B7ABA062A3B68AF006D5FAD /* robot.usdz in Resources */,
@@ -155,6 +166,7 @@
 				6B7ABA022A3B65F1006D5FAD /* Prac5.swift in Sources */,
 				6B7AB9EE2A3B4B0D006D5FAD /* AppDelegate.swift in Sources */,
 				6B7ABA002A3B5C13006D5FAD /* Prac4.swift in Sources */,
+				6BF64BDF2A4093FD000F0EC7 /* Prac7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
